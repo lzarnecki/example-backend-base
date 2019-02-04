@@ -1,2 +1,4 @@
 # example-backend-base
-Example backend which exposes simple JSON API (handling of GET, PUT, POST, DELETE requests)
+Example backend written in Flask (Python) which exposes simple JSON API.
+
+API handling GET, PUT, POST and DELETE requests of GameRoom object.
